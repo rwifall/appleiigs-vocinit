@@ -1,4 +1,4 @@
-# VOCinit	      ver 01.00	Freeware
+# VOCinit (Apple IIgs)
 
   Copyright (c) 1993-2022 by Richard Wifall
 
@@ -7,7 +7,7 @@
 
 ## What does it do??
 
-VOCinit is an Init, specifically a TIF (temporary initialization file) that forces the VOC (Video Overlay Card) video/graphics mix settings on boot to either be full IIgs graphics or full input video.
+VOCinit is an Init, specifically a TIF (temporary initialization file) for the Apple IIgs that forces the VOC (Video Overlay Card) video/graphics mix settings on boot to either be full IIgs graphics or full input video.
 
 If you have the caps lock off it will set the VOC video/graphics mix settings to full IIgs graphics.
 If you have the caps lock on, it will set the VOC video/graphics mix settings to full input video.
